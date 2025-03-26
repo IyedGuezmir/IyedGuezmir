@@ -5,8 +5,8 @@
 Data science student at Esprit |Chairman Deepflow Esprit                            
 <div align="center">                    
    
-![](https://img.shields.io/github/followers/Iyeeed?color=green&logo=github)
-![](https://komarev.com/ghpvc/?username=Iyeeed)  
+![](https://img.shields.io/github/followers/IyedGuezmir?color=green&logo=github)
+![](https://komarev.com/ghpvc/?username=IyedGuezmir)  
 
 <h3 align="center">As a passionate Data Science student, I'm diving deep into the world of Machine Learning and Deep Learning to craft data-driven solutions across diverse domains. I am driven by a curiosity to uncover insights from complex datasets and the excitement of building intelligent systems that create real-world impact. With a strong focus on continuous learning and problem-solving, I strive to bridge the gap between data and actionable knowledge, while fostering innovation and meaningful applications of AI.</h3> 
 
@@ -42,16 +42,16 @@ Data science student at Esprit |Chairman Deepflow Esprit
 
 </div>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Iyeeed&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="Iyeeed" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=IyedGuezmir&show_icons=true&locale=en&layout=compact&theme=react&border_color=61dafb&hide_border=true" alt="IyedGuezmir" />
 
 <br/>
 
-<img class="center" src="https://github-readme-stats.vercel.app/api?username=Iyeeed&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="Iyeeed" />
+<img class="center" src="https://github-readme-stats.vercel.app/api?username=IyedGuezmir&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="IyedGuezmir" />
 
 
 <br/>
 
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iyeeed&theme=react&border=61dafb&hide_border=true" alt="Iyeeed" />
+<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IyedGuezmir&theme=react&border=61dafb&hide_border=true" alt="IyedGuezmir" />
 
 <br/>
 
