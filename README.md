@@ -51,7 +51,7 @@ Data science student at Esprit |Chairman Deepflow Esprit
 
 <br/>
 
-<img class="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IyedGuezmir&theme=react&border=61dafb&hide_border=true" alt="IyedGuezmir" />
+<img class="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=IyedGuezmir&theme=dark" alt="GitHub Streak" />
 
 <br/>
 
