@@ -8,7 +8,7 @@ Data science student at Esprit |Chairman Deepflow Esprit
 ![](https://img.shields.io/github/followers/IyedGuezmir?color=green&logo=github)
 ![](https://komarev.com/ghpvc/?username=IyedGuezmir)  
 
-<h3 align="center">As a passionate Data Science student, I'm diving deep into the world of Machine Learning and Deep Learning to craft data-driven solutions across diverse domains. I am driven by a curiosity to uncover insights from complex datasets and the excitement of building intelligent systems that create real-world impact. With a strong focus on continuous learning and problem-solving, I strive to bridge the gap between data and actionable knowledge, while fostering innovation and meaningful applications of AI.</h3> 
+<h3 align="center">I'm a Data Science student passionate about AI, with a focus on Machine Learning and Deep Learning. I’m driven by the challenge of building intelligent systems that push the boundaries of what AI can do. Whether it's refining models, exploring new techniques, or applying AI to real-world problems, I'm always looking for ways to innovate and grow in this space.</h3> 
 
 
 
