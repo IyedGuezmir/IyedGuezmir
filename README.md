@@ -25,7 +25,7 @@ Data science student at Esprit |Chairman Deepflow Esprit
   
 - 🔻 I’m currently learning **Generating LLM'S with prompt Engineering| Ai Agents**
 
-- 👯 I’m looking for a summer internship on **Artificiel Intelligence**
+- 👯 Currently on a summer internship with **VERMEG**
 
 - 📫 How to reach me **https://www.linkedin.com/in/iyed-guezmir-b5a511250/**
   
