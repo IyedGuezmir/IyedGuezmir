@@ -19,17 +19,15 @@ Data science student at Esprit |Chairman Deepflow Esprit
 
 
 
-- 🔭 I’m currently working on **Formula1-Ai-Agents**
+- 🔭 I’m currently working on **Agentic-News-bot** project
  
-- 🌱 I’m currently Studying **data science at Esprit**
+- 🌱 I’m currently Studying **Data Science Masters at Esprit**
   
-- 🔻 I’m currently learning **Generating LLM'S with prompt Engineering| Ai Agents**
+- 🔻 I’m currently learning more about **Agentic RAG Systems** 
 
-- 👯 Currently on a summer internship with **VERMEG**
+- 👯 **I'm Currently looking for a 6 month Internship in AI/Data Science**
 
 - 📫 How to reach me **https://www.linkedin.com/in/iyed-guezmir-b5a511250/**
-  
-- ⚡ Fun fact **I don't like technology that much**
 
   
 <h3 align="left">Connect with me:</h3>
